@@ -22,5 +22,14 @@
   "license": "ISC",
   "jest": {
     "testURL": "http://localhost/"
-  }
+  },
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/antoluduenabereziuk/Curso.Prep.Henry.git"
+  },
+  "bugs": {
+    "url": "https://github.com/antoluduenabereziuk/Curso.Prep.Henry/issues"
+  },
+  "homepage": "https://github.com/antoluduenabereziuk/Curso.Prep.Henry#readme"
 }
