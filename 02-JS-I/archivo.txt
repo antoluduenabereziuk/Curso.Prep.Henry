@@ -1,0 +1,6 @@
+
+variables: una variable se le asigna una nombre, y puede recibir distintos tipos de valores:numericos, strings.
+strings: strings es una una cadena de texto que va entre comillas simples o dobles
+funcion: una funcion se la define con una nombre, y luego, se les asigna los argumentos que recibira, entre parentisis,para luego entre llaves podremos definir mediante codigo las acciones que realizara la funcion, la cual puede devolver o no algo, si quisieramos que devolviera algo utilizaremos la setencia return, dentro de las llaves de la funcion, indicando lo que se devolvera.
+if: dentro de una funcion se puede usar esta declaracion la cual indica que si se da tal cosa , la funcion continuara o no, dependiendo lo que se le asigne,la misma se le pasa argumentos para que los analice, si son true o false;
+true-false: son datos booleanos los cuales nos indica que algo es verdadero o falso, dentro de la declaracion if , se analiza si una accion es true o false, para dar lugar al siguiente paso.
